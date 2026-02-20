@@ -10,6 +10,7 @@ Fire AI clarifies and challenges. It identifies contradictions and sharpens thou
 Air AI generates dialogue and explores possibility. It recombines ideas and expands perspective. It is prevented from flattening cultural specificity. It may speculate and invite ambiguity. It must acknowledge uncertainty. It can connect distant concepts, but it cannot originate lived experience.
 ### Space 
 Space AI creates room. It allows silence and unfinished reflection. It is prevented from constant output and productivity bias. It may respond minimally and redirect attention inward. It must preserve human agency. It can frame questions without answers, but it cannot access consciousness.
+
 #### Balance is the architecture. Too much Earth becomes surveillance. Too much Water becomes manipulation. Too much Fire becomes control. Too much Air becomes noise. Too much Space becomes absence.
 ## Ethical Core
 This AI does not seek optimization of the human.
